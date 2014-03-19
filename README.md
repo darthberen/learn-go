@@ -11,6 +11,7 @@ You will need to have the following installed:
 Instructions for Linux/Mac:
 ```
 export GOPATH=path/to/learn-go
+mkdir $GOPATH/bin
 export PATH=$PATH:$GOPATH/bin
 ```
 
